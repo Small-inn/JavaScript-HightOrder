@@ -89,6 +89,6 @@ console.log(p.age);//20
         console.log(p1.name);
 ```
 
-![图解]()
+![图解](https://github.com/Small-inn/JavaScript-HightOrder/blob/master/img/%E7%B1%BB%E5%9E%8B%E8%B5%8B%E5%80%BC%E9%9D%A2%E8%AF%95%E9%A2%98.png)
 
     
