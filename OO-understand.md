@@ -191,11 +191,12 @@ function Person() {
 
 var p = new Person();
 ```
-![原型图]()
+![原型图](https://github.com/Small-inn/JavaScript-HightOrder/blob/master/img/%E5%8E%9F%E5%9E%8B%E5%9B%BE%E8%A7%A3%EF%BC%88%E5%9F%BA%E6%9C%AC%E7%9A%84%E4%B8%89%E8%A7%92%E5%85%B3%E7%B3%BB%EF%BC%89.png)
 
 
 ## 完整版原型链
-![完整版原型链]()
+![完整版原型链](https://github.com/Small-inn/JavaScript-HightOrder/blob/master/img/%E5%AE%8C%E6%95%B4%E7%89%88%E7%9A%84%E5%8E%9F%E5%9E%8B%E9%93%BE.png)
+
 ##  原型成员
 1. Object.prototype.__proto__: 指向对象被实例化的时候，用作原型的对象
 2. Object.prototype.hasOwnProperty(): 返回一个布尔值，表示某个对象是否含有指定的属性，而且此属性非原型链继承的，这里注意与in关键字的区别
