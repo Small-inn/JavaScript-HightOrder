@@ -296,7 +296,7 @@ function f3() {
     }
 }
 ```
-![作用域链图示]()
+![作用域链图示](https://github.com/Small-inn/JavaScript-HightOrder/blob/master/img/%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE%E5%9B%BE%E7%A4%BA.png)
 
 ## 变量访问规则
 * 首先看变量在第几条链上, 在该链上看是否有变量的定义与赋值, 如果有直接使用
